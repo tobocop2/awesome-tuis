@@ -693,7 +693,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [LazySSH](https://github.com/adembc/lazyssh) TUI SSH manager to browse, connect, and manage servers from ssh config files.
 - [levite](https://github.com/RauliL/levite) A TUI spreadsheet application that uses an RPN formulas and features a vi-friendly interface
-- [lilbee](https://github.com/tobocop2/lilbee) Local-first TUI that runs and manages local AI models, indexes your files and code, crawls the websites you point it at, and answers questions with citations back to the source.
+- [lilbee](https://github.com/tobocop2/lilbee) Local-first TUI that runs and manages its own local AI models, or uses your existing Ollama or LM Studio if you already have one, then searches your files, code, and the websites you crawl with citations back to the source.
 - [longbridge-terminal](https://github.com/longbridge/longbridge-terminal) AI-native TUI for Longbridge Securities: real-time quotes, portfolio management, and trading for HK/US/A-share/SG markets.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
